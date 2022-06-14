@@ -9,3 +9,5 @@ Steps:
 5. Get the location of License Plate using contours
 6. Make mask and then apply it on original image
 7. Use tesserect to read string from images 
+
+Sample images are proveded for Testing

@@ -10,4 +10,4 @@ Steps:
 6. Make mask and then apply it on original image
 7. Use tesserect to read string from images 
 
-Sample images are proveded for Testing
+Sample images are given for Testing and Video of Working of code is also given
